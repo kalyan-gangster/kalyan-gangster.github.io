@@ -1,7 +1,6 @@
 ## Welcome to to my website
 
-i got this from [get into pc](https://getintopc.com/)
-
+you can get free blender addons free arp and more [github respostery](https://github.com/kalyan-gangster/blender-addons)
 
 ### Markdown
 
